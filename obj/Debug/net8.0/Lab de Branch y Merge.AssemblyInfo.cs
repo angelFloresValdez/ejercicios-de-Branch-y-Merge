@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Lab de Branch y Merge")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+56674987ece2867587ec82197c92a06d226d16e3")]
 [assembly: System.Reflection.AssemblyProductAttribute("Lab de Branch y Merge")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Lab de Branch y Merge")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
